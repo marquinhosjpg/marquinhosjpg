@@ -1,6 +1,9 @@
 hey, call me marquinhos!
+
 i like to code, but i'm not that good👍
+
 i started coding with react native and i like front-end areas like ui
+
 all support is well receive
 
 <!---
