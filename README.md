@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @marquinhosjpg
-- 👀 I’m interested in css/js and reactive
-- 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on a school website
-- 📫 How to reach me @marquinhos.jpeg int4gr4am
+hey, call me marquinhos!
+i like to code, but i'm not that good👍
+i started coding with react native and i like front-end areas like ui
+all support is well receive
 
 <!---
 marquinhosjpg/marquinhosjpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
