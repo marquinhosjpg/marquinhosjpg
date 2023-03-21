@@ -1,6 +1,6 @@
 <div  align="center"> 
  
- # Opa 👋
+ # Yup 👋
  Student in systems analysis and development.
  
   <div style="display: inline_block"><br>
