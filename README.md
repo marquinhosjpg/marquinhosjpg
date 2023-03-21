@@ -21,4 +21,4 @@
  
 <br>
  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/marquinhosjpg/count.svg" /></p>
+
